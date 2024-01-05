@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#a script that displays all listening sockets and shows the PID and name of the program to which each socket belongs
+
+ss -lp
