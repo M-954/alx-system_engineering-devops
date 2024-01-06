@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#script that listens on a localhost
+nc -lk localhost 98
